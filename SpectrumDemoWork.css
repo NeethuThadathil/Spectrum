@@ -1,0 +1,133 @@
+h1{
+    color: white;
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+
+div{
+    height: 130px;
+    width: 90px;
+}
+#R1D1{
+    background-color: aqua;
+    margin-left: 460px;
+    
+}
+#R1D2{
+    background-color:bisque;
+    margin-left: 560px;
+    margin-top: -130px;
+    
+}
+#R1D3{
+    background-color:rgb(210, 255, 196);
+    margin-left: 658px;
+    margin-top: -130px;    
+}
+#R1D4{
+    background-color:rgb(204, 210, 203);
+    margin-left: 756px;
+    margin-top: -130px;    
+}
+#R1D5{
+    background-color:rgb(247, 177, 177);
+    margin-left: 856px;
+    margin-top: -130px;    
+}
+#R2D1{
+    background-color:rgb(185, 10, 10);
+    margin-left: 359px;
+    margin-top: 10px;
+}
+#R2D2{
+    background-color:rgb(185, 103, 10);
+    margin-left: 459px;
+    margin-top: -129px;
+}
+#R2D3{
+    background-color:rgb(129, 185, 10);
+    margin-left: 558px;
+    margin-top: -129px;
+}
+#R2D4{
+    background-color:rgb(10, 185, 164);
+    margin-left: 657px;
+    margin-top: -129px;
+}
+#R2D5{
+    background-color:rgb(10, 39, 185);
+    margin-left: 757px;
+    margin-top: -129px;
+}
+#R2D6{
+    background-color:rgb(164, 10, 185);
+    margin-left: 857px;
+    margin-top: -129px;
+}
+#R2D7{
+    background-color:rgb(185, 10, 71);
+    margin-left: 957px;
+    margin-top: -129px;
+}
+#R3D1{
+    background-color:rgb(43, 101, 4);
+    margin-left: 260px; 
+}
+#R3D2{
+    background-color:rgb(101, 56, 4);
+    margin-left: 358px; 
+    margin-top: -130px;
+}
+#R3D3{
+    background-color:rgb(101, 4, 67);
+    margin-left: 458px; 
+    margin-top: -127px;
+}
+#R3D4{
+    background-color:rgb(75, 4, 101);
+    margin-left: 558px; 
+    margin-top: -129px;
+}
+#R3D5{
+    background-color:rgb(19, 4, 101);
+    margin-left: 658px; 
+    margin-top: -129px;
+}
+#R3D6{
+    background-color:rgb(101, 4, 80);
+    margin-left: 758px; 
+    margin-top: -129px;
+}
+#R3D7{
+    background-color:rgb(12, 101, 4);
+    margin-left: 859px; 
+    margin-top: -129px;
+}
+#R3D8{
+    background-color:rgb(101, 101, 4);
+    margin-left: 959px; 
+    margin-top: -129px;
+}
+#R3D9{
+    background-color:rgb(101, 4, 30);
+    margin-left: 1058px; 
+    margin-top: -129px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
